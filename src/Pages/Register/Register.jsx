@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import AuthContext from "../../context/AuthContext/AuthContext";
+import SocialLogin from "../Shared/SocialLogin";
 
 
 const Register = () => {
@@ -37,6 +38,8 @@ const Register = () => {
                             <div><a className="link link-hover">Forgot password?</a></div>
                             <button className="btn btn-neutral mt-4">Register</button>
                         </form>
+                          <div className="divider">OR</div>
+                         <div className="text-center mx-auto"> <SocialLogin ></SocialLogin></div>
                     </div>
                 </div>
             </div>
