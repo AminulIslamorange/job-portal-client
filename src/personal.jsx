@@ -1,0 +1,11 @@
+VITE_apiKey=AIzaSyB5bCtHbeEorMswV3ANoGoQ_yWjZ6wqt1U
+VITE_authDomain=ob-portal-6264d.firebaseapp.com
+VITE_projectId=job-portal-6264d
+VITE_storageBucket=job-portal-6264d.firebasestorage.app
+VITE_messagingSenderId=924459995243
+VITE_appId=1:924459995243:web:cef500e1f038b07bc2e12e
+
+
+
+DB_USER=jobPortal
+DB_PASS=9sZEt9DT3KRPYZdG
